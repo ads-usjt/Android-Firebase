@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(this, ChatActivity.class));
             })
             .addOnFailureListener( e -> {
-                Toast.makeText(this, "Deu ruim irmão, logou não", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Usuário ou senha inválidos", Toast.LENGTH_SHORT).show();
             });
     }
 }
