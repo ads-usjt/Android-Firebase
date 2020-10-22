@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155270708779",
+    "firebase_url": "https://android-firebase-cae08.firebaseio.com",
+    "project_id": "android-firebase-cae08",
+    "storage_bucket": "android-firebase-cae08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155270708779:android:33d96449d450ad6d7e346e",
+        "android_client_info": {
+          "package_name": "dev.lucasliet.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155270708779-ja6lafd59bh7l0f0moemd24nqf4jrnfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9ocVaCwYQqc9KUqslH2jTsNSVLJnnTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155270708779-ja6lafd59bh7l0f0moemd24nqf4jrnfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Firebase</string>
+    <string name="dica_login">Type your Login</string>
+    <string name="dica_senha">Type your Password</string>
+    <string name="quero_me_cadastrar">Sign Up</string>
+    <string name="data_nome">In %s, %s said:</string>
+    <string name="digite_sua_mensagem">Type your message</string>
+</resources>
